@@ -1,0 +1,7 @@
+trafficDatasetKaggle/*
+deepSORT/*
+*__pycache__
+*.jpg
+*.png
+*.avi
+*.mov
