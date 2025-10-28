@@ -1,5 +1,9 @@
 trafficDatasetKaggle/*
 deepSORT/*
+outputs/*
+!outputs/.gitkeep
+weights/*
+!weights/.gitkeep
 *__pycache__
 *.jpg
 *.png
