@@ -1,5 +1,3 @@
-# Multiple Vehicle Tracking
-
 ---
 title: Vehicle Tracker
 emoji: 🚗
