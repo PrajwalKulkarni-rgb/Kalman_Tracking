@@ -22,5 +22,5 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
           
-          # Push directly to the Hugging Face Space repository URL
+          # Push the local main branch directly to the Hugging Face Space URL
           git push --force https://user:${HF_TOKEN}@huggingface.co/spaces/PrajwalKulkarni/vehicleTracking main
